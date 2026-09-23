@@ -7,6 +7,16 @@ const ServicesSection = () => {
     <section className="services">
       <div className="services-content">
         <h2>WHAT WE DO AND HOW WE DO IT</h2>
+        <p className="services-intro">
+          Our pricing is built around more than simply delivering a design at
+          the lowest possible price. Whether you engage us for a once-off
+          project or ongoing support through a retainer, our goal is to build a
+          solid, considered design system for your brand from start to finish.
+          We look at the bigger picture, ensuring every creative decision has
+          purpose and works together consistently. The result is a brand that is
+          not only designed to look good, but built to work, communicate and
+          grow with your business.
+        </p>
 
         <div className="services-grid">
           <div className="service-card branding">
@@ -23,7 +33,7 @@ const ServicesSection = () => {
             </ul>
             <div className="service-price">
               <span className="price-from">FROM</span>
-              <span className="price-amount">R 6000.00</span>
+              <span className="price-amount">R 6600.00</span>
             </div>
           </div>
 
@@ -39,7 +49,7 @@ const ServicesSection = () => {
             </ul>
             <div className="service-price">
               <span className="price-from">FROM</span>
-              <span className="price-amount">R 4500.00</span>
+              <span className="price-amount">R 4800.00 / PER DAY</span>
             </div>
           </div>
 
@@ -58,7 +68,7 @@ const ServicesSection = () => {
             </ul>
             <div className="service-price">
               <span className="price-from">FROM</span>
-              <span className="price-amount">R 3000.00</span>
+              <span className="price-amount">R 3300.00</span>
             </div>
           </div>
 
@@ -76,7 +86,7 @@ const ServicesSection = () => {
             </ul>
             <div className="service-price">
               <span className="price-from">FROM</span>
-              <span className="price-amount">R 3000.00</span>
+              <span className="price-amount">R 3300.00</span>
             </div>
           </div>
         </div>

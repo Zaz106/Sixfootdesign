@@ -49,18 +49,18 @@ const PortfolioPage3 = () => {
       buttonText: "VIEW THE PROJECT",
     },
     {
-      id: "greenera",
-      title: "GREENERA BRAND AND WEB",
-      heroImage: "/projects/Greenera Hero.png",
+      id: "volenti",
+      title: "VOLENTI FITNESS WEBSITE",
+      heroImage: "/projects/Volenti.webp",
       accentColor: "var(--color-accent)",
       aboutCompany:
-        "GreenEra Energy provides renewable energy advice; design; supply, installation and maintenance of renewable technologies. We are GreenCard Certified and SAPVIA Approved to install Solar Photo Voltaic (Solar PV) and Energy Storage Systems. GreenEra Energy adheres to the Consumer Code. This encourages best practice in all our dealings with our customers. We will provide renewable energy advice on technologies that are suitable for the premises and will not undertake “hard selling”.",
+        "Volenti Wellness and Fitness offers three distinct service areas, each built around a specific goal and a single guiding principle: sustainable progress matters more than short-term results. These programmes include: General Fitness Programs — designed to build a strong, balanced foundation, improving strength, endurance, mobility, and overall wellbeing. Sports Conditioning — built to help you perform at your optimal level, developing strength, speed, agility, and endurance specific to your sport. Occupational Conditioning — designed to enhance performance in the workplace, building the strength, stamina, and resilience your role demands.",
       brief:
-        "We were tasked with developing a brand that was immediately clear in its purpose, positioning the company as a provider of holistic renewable energy solutions.",
+        "We were approached by Volenti to take their brand online with a website that emphasised the core of their business: delivering quality fitness to those who are willing to put in the work.",
       approach:
-        "Just as the business is built on three key service pillars — Renewable Energy Solutions, Carbon Footprint Auditing, and Energy Efficiency & Management — we took a strategic approach to the logo. Rather than trying to represent each service literally, we focused on the three core areas of renewables to clearly show that the business offers a balanced, holistic solution. The use of green and blue reinforces the eco-friendly nature of the brand and ties the identity together.",
-      thankYouText: "Hamanth for trusting us with your brand.",
-      websiteUrl: "https://greeneraenergy.co.za",
+        "We took a very brand-centric approach, staying closely aligned with their established brand feel while bringing a sense of energy and movement throughout the site. Dynamic imagery was used to clearly communicate the core of the business and the energy behind what they offer. The site itself was built in Next.js for added security. The website also clearly presents their service packages, making it easy for both South African and UK clients to understand what’s available and find the right fit for their needs.",
+      thankYouText: "Leo for trusting us with your brand.",
+      websiteUrl: "https://volenti.vercel.app",
       buttonText: "VIEW THE PROJECT",
     },
     {

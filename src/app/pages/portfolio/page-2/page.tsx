@@ -33,7 +33,7 @@ const PortfolioPage2 = () => {
     {
       id: "plasticourt",
       title: "PLASTICOURT BRAND",
-      heroImage: "/projects/Plasticourt Hero.png",
+      heroImage: "/projects/Plasticourt.webp",
       accentColor: "var(--color-accent)",
       aboutCompany:
         "PLASTICOURT Surface Solutions is a turnkey, Proudly South African  Company, that specializes in all-weather hardcourt surface solutions. At the helm is CEO / Owner Mark Hibberd who boasts around 20 years’  experience in the resurfacing industry. PLASTICOURT specializes in the resurfacing of tennis, netball and  basketball courts but also provides services such as earthworks, fencing and building of courts.",

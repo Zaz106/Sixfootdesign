@@ -55,11 +55,11 @@ const ProjectsGridSection = () => {
       href: "/pages/portfolio/page-3#red-seal",
     },
     {
-      name: "GREENERA",
-      description: "Brand Design and Website",
-      image: "/projects/Project - 8.png",
+      name: "VOLENTI FITNESS",
+      description: "Website Development",
+      image: "/projects/Volenti.webp",
       color: "orange",
-      href: "/pages/portfolio/page-3#greenera",
+      href: "/pages/portfolio/page-3#volenti",
     },
     {
       name: "GARICON",

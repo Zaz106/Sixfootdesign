@@ -9,7 +9,7 @@
 .services-content {
   width: 85%; /* Match project cards width */
   margin: 0 auto 2rem;
-  text-align: center;
+  text-align: left;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -19,6 +19,16 @@
   font-size: var(--text-h1);
   color: var(--color-primary);
   margin: 2rem auto 2rem;
+  width: 100%;
+  text-align: left;
+}
+
+.services-intro {
+  font-size: var(--text-body);
+  line-height: 1.8;
+  margin-bottom: 3rem;
+  color: var(--color-text-main);
+  text-align: left;
   width: 100%;
 }
 

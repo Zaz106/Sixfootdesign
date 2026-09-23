@@ -10,8 +10,8 @@ const ProjectsSection = () => {
         <Image 
           src="/Angie Cleans - Feauture bg.png" 
           alt="Angi Cleans" 
-          width={1200} 
-          height={800} 
+          width={1600} 
+          height={900} 
           className="project-image"
         />
         <div className="project-info">
@@ -19,17 +19,17 @@ const ProjectsSection = () => {
           <span className="project-cat">Website Development</span>
         </div>
       </Link>
-      <Link href="/pages/portfolio/page-1#funfloats" className="project-item item-funfloats">
+      <Link href="/pages/portfolio/page-3#volenti" className="project-item item-funfloats">
         <Image 
-          src="/Funfloats - Feature bg.png" 
-          alt="Funfloats" 
-          width={1200} 
-          height={800} 
+          src="/projects/Volenti.webp" 
+          alt="Volenti Fitness" 
+          width={1600} 
+          height={900} 
           className="project-image"
         />
         <div className="project-info">
-          <h3 className="project-title">FUNFLOATS</h3>
-          <span className="project-cat">E-commerce Website</span>
+          <h3 className="project-title">VOLENTI FITNESS</h3>
+          <span className="project-cat">Website Development</span>
         </div>
       </Link>
     </section>
