@@ -20,7 +20,7 @@ const HeroSection = () => {
       
       <div className="hero-content">
         <SplitText
-          text="Branding. Advertising. Illustration. Web"
+          text="Branding. Advertising. Commercial Art. Web"
           tag="h1"
           className="hero-title"
           delay={40}
