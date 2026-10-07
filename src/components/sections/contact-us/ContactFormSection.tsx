@@ -213,7 +213,7 @@ const ContactFormSection = () => {
                 <h3>Our Services</h3>
                 <p>Brand Design</p>
                 <p>Advertising</p>
-                <p>Illustration</p>
+                <p>Commercial Art</p>
                 <p>Web Dev</p>
                 <p>Site Management</p>
                 <p>Direction and Strategy</p>

@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     default: "Six Foot Design Co | Branding & Web Design",
   },
   description:
-    "Six Foot Design Co is a faith-driven creative studio based in Johannesburg, South Africa, specialising in branding, advertising, illustration, and web design.",
+    "Six Foot Design Co is a faith-driven creative studio based in Johannesburg, South Africa, specialising in branding, advertising, commercial art, and web design.",
   metadataBase: new URL("https://www.sixfootdesignco.co.za"),
   openGraph: {
     siteName: "Six Foot Design Co",

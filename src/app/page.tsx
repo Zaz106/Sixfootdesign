@@ -12,14 +12,14 @@ import Footer from "@/components/layout/Footer";
 export const metadata: Metadata = {
   title: "Branding & Web Design",
   description:
-    "Six Foot Design Co — a Johannesburg creative studio specialising in branding, advertising, illustration, and web design for small businesses.",
+    "Six Foot Design Co — a Johannesburg creative studio specialising in branding, advertising, commercial art, and web design for small businesses.",
   alternates: {
     canonical: "https://www.sixfootdesignco.co.za/",
   },
   openGraph: {
     title: "Six Foot Design Co | Branding & Web Design",
     description:
-      "A faith-driven creative studio in Johannesburg helping small businesses grow through purposeful branding, advertising, illustration, and web design.",
+      "A faith-driven creative studio in Johannesburg helping small businesses grow through purposeful branding, advertising, commercial art, and web design.",
     url: "https://www.sixfootdesignco.co.za/",
     type: "website",
     images: [
@@ -42,7 +42,7 @@ const businessSchema = {
   logo: "https://www.sixfootdesignco.co.za/six-foot-logo-dark.svg",
   image: "https://www.sixfootdesignco.co.za/six-foot-logo-light.png",
   description:
-    "A faith-driven creative studio in Johannesburg specialising in branding, advertising, illustration, and web design for small businesses.",
+    "A faith-driven creative studio in Johannesburg specialising in branding, advertising, commercial art, and web design for small businesses.",
   telephone: "+27-84-741-3340",
   email: "getintouch@sixfootdesignco.co.za",
   address: {
@@ -62,7 +62,7 @@ const businessSchema = {
       { "@type": "Offer", itemOffered: { "@type": "Service", name: "Branding" } },
       { "@type": "Offer", itemOffered: { "@type": "Service", name: "Web Design" } },
       { "@type": "Offer", itemOffered: { "@type": "Service", name: "Advertising" } },
-      { "@type": "Offer", itemOffered: { "@type": "Service", name: "Illustration" } },
+      { "@type": "Offer", itemOffered: { "@type": "Service", name: "Commercial Art" } },
     ],
   },
   sameAs: [

@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Projects | Six Foot Design Co",
     description:
-      "A curated selection of branding, advertising, illustration, and web design work showcasing our passion for thoughtful design and strong visual storytelling.",
+      "A curated selection of branding, advertising, commercial art, and web design work showcasing our passion for thoughtful design and strong visual storytelling.",
     url: "https://www.sixfootdesignco.co.za/pages/projects",
     images: [
       {
